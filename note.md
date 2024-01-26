@@ -13,5 +13,9 @@
 [16.4k star，推荐一款神器，你值得拥有，免费！开源！](https://mp.weixin.qq.com/s/Uwmt9SNB5jmSzlQjYMof5w)
 [20.4k star，推荐一款开源神器，可以直接用](https://mp.weixin.qq.com/s/dONaPDlTCkH844n613KSJg)
 [11.4k star，推荐一款高级、酷炫的开源笔记软件](https://mp.weixin.qq.com/s/bvZDzSuD3c079Nyz4l-3Vg)
-
+[30 秒使用 VaultWarden 搭建个人密码管理器](https://mp.weixin.qq.com/s/IMoUBL8s2kp0ChVRX5NO6A)
+[Simple Admin - Go 语言分布式后台管理系统 v1.3.1 发布](https://mp.weixin.qq.com/s/B8ZpClRB8VbTOG1EqnsAVw)
+[305k+ Stars 我愿称之为最强！](https://mp.weixin.qq.com/s/0KYlUUHVzM5iyXfSL31kFA)
+[22k+ stars 搭建个人私有云盘的开源神器](https://mp.weixin.qq.com/s/CgVP3SESQEBns5E6gYOfOA)
+[Fitten Code](https://mp.weixin.qq.com/s/5fcla6d5-chNY_ioBpm7UA)
 
