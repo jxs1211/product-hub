@@ -18,4 +18,12 @@
 [305k+ Stars 我愿称之为最强！](https://mp.weixin.qq.com/s/0KYlUUHVzM5iyXfSL31kFA)
 [22k+ stars 搭建个人私有云盘的开源神器](https://mp.weixin.qq.com/s/CgVP3SESQEBns5E6gYOfOA)
 [Fitten Code](https://mp.weixin.qq.com/s/5fcla6d5-chNY_ioBpm7UA)
+[目前见过效果最好的中文语音合成工具](https://mp.weixin.qq.com/s/zwya03wn2jsTW5RYIh8m4Q)
+[最简单的开源软电话MicroSIP](https://mp.weixin.qq.com/s/JpW6tM3AU8sP092lgpy3cw)
+[超爆！8款最佳实用软件推荐](https://mp.weixin.qq.com/s/Stx1wVHfz1XbOhRYlZ9jIA)
+[推荐一个Windows 上腾讯出品的良心工具集合，100+工具绝大部分免费又好用](https://mp.weixin.qq.com/s/atNgoDXgfIhDjoWNKd3bjw)
+[太强了！推荐一款开源的基于云原生的kafka解决方案](https://mp.weixin.qq.com/s/F0CFnWC2p6wIoJgZonenag)
+[更新了！这可能是最好用的嵌入式终端工具之一，完全免费！](https://github.com/kingToolbox/WindTerm)
+[Newspaper3k —— 一个神奇的 Python 库](https://mp.weixin.qq.com/s/8x3LzCxCfJtBqDb_W7TUbA)
+
 

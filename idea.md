@@ -1,0 +1,6 @@
+- calendar + sticky note + todolist
+-UDocs:
+  - full text search
+  - doc type:
+	- web page
+	- text: md, doc
