@@ -25,5 +25,16 @@
 [太强了！推荐一款开源的基于云原生的kafka解决方案](https://mp.weixin.qq.com/s/F0CFnWC2p6wIoJgZonenag)
 [更新了！这可能是最好用的嵌入式终端工具之一，完全免费！](https://github.com/kingToolbox/WindTerm)
 [Newspaper3k —— 一个神奇的 Python 库](https://mp.weixin.qq.com/s/8x3LzCxCfJtBqDb_W7TUbA)
+[22.4k star，推荐一款强大的、开源的备份工具](https://mp.weixin.qq.com/s/5JPkHR8Z8hKVMYECoBGb1g)
+[开源AI生成简历神器](https://github.com/AmruthPillai/Reactive-Resume)
+[绘图](https://github.com/mermaid-js/mermaid)
+[uptime监控](https://mp.weixin.qq.com/s/ARiEOO5gByRxxhQ2nE0z2w)
+[lowcode](https://github.com/alibaba/lowcode-engine)
 
+
+
+## Game
+[幻兽帕鲁本地一键部署|局域网部署](https://mp.weixin.qq.com/s/xAqtl0LhbjRqzuma3G4yfQ)
+[火遍全球的《幻兽帕鲁》游戏私服终于被 Sealos 拿下了！](https://mp.weixin.qq.com/s/Org8pee_cxGkzOYsMFu6sA)
+[爆了！Sealos 三天内支持 1000 个帕鲁私服](https://mp.weixin.qq.com/s/MIWlVcWwK7qG1HnME63xjA)
 
