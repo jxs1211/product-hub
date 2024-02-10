@@ -1,0 +1,8 @@
+services:
+    g4f:
+        ports:
+            - 8080:8080
+            - 1337:1337
+            - 7900:7900
+              #shm_size: 2g
+        image: hlohaus789/g4f:latest

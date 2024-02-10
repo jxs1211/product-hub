@@ -1,0 +1,2 @@
+[2023-02-07 06:35:31,706] [INFO] Create generating event log worker with output path(/opt/output/agent-logs/46be0dd260f0-events.csv)
+[2023-02-07 06:35:31,749] [INFO] Create generating metrics worker with config(/opt/config/prometheus_exporter_config.yml), path(None), interval(5) and port(None), tempdir(/opt/output/agent_metrics)

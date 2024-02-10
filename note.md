@@ -31,10 +31,22 @@
 [uptime监控](https://mp.weixin.qq.com/s/ARiEOO5gByRxxhQ2nE0z2w)
 [lowcode](https://github.com/alibaba/lowcode-engine)
 
+[PocketBase](https://mp.weixin.qq.com/s/mlE9tbiQa1l2LPqY7vG7lQ))
+[](https://github.com/Bowen7/regex-vis)
+[cheat.sh](https://mp.weixin.qq.com/s/IfSISy0G7LegU6wMnfegEw)
+[casaos个人云系统](https://mp.weixin.qq.com/s/hUqXjsiqVbXLNjRfwE1AuA)
+[AudioPen]
+[docker2compose](https://www.composerize.com/)
+[compose2manifest](https://kompose.io/)
+[docusaurus](https://docusaurus.io/)
+[devv](https://devv.ai/)
 
 
 ## Game
 [幻兽帕鲁本地一键部署|局域网部署](https://mp.weixin.qq.com/s/xAqtl0LhbjRqzuma3G4yfQ)
 [火遍全球的《幻兽帕鲁》游戏私服终于被 Sealos 拿下了！](https://mp.weixin.qq.com/s/Org8pee_cxGkzOYsMFu6sA)
 [爆了！Sealos 三天内支持 1000 个帕鲁私服](https://mp.weixin.qq.com/s/MIWlVcWwK7qG1HnME63xjA)
+
+docker cmd => docker compose => k8s manifest
+
 
