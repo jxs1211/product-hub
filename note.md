@@ -40,13 +40,30 @@
 [compose2manifest](https://kompose.io/)
 [docusaurus](https://docusaurus.io/)
 [devv](https://devv.ai/)
-
+鸟窝的推荐工具：https://mp.weixin.qq.com/s/-8IcAjN6T6LeE29p0nkqcQ
+composerize: https://www.composerize.com/
+kompose: https://github.com/kubernetes/kompose
+Typora: https://typora.io/
+MarkText: https://github.com/marktext/marktext
+Notion: https://www.notion.so/product
+Google Keep: https://keep.google.com/
+Evernote（印象笔记）: https://www.yinxiang.com/
+OneNote: https://www.onenote.com/
+Simplenote: https://simplenote.com/
+Bear: https://bear.app/
+GoodNotes: https://www.goodnotes.com/
+Notability: https://notability.com/
+obsidian: https://obsidian.md/
+logseq: https://github.com/logseq/logseq
+draw.io: https://app.diagrams.net/
+excalidraw: https://excalidraw.com/
+这篇知乎文章: https://www.zhihu.com/question/21291418
+memos: https://github.com/usememos/memos
+https://demo.usememos.com/: https://demo.usememos.com/
 
 ## Game
 [幻兽帕鲁本地一键部署|局域网部署](https://mp.weixin.qq.com/s/xAqtl0LhbjRqzuma3G4yfQ)
 [火遍全球的《幻兽帕鲁》游戏私服终于被 Sealos 拿下了！](https://mp.weixin.qq.com/s/Org8pee_cxGkzOYsMFu6sA)
 [爆了！Sealos 三天内支持 1000 个帕鲁私服](https://mp.weixin.qq.com/s/MIWlVcWwK7qG1HnME63xjA)
-
-docker cmd => docker compose => k8s manifest
 
 
