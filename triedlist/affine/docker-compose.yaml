@@ -1,0 +1,16 @@
+name: affine-demo
+services:
+    affine-self-hosted:
+        container_name: affine
+        ports:
+            - 3100:3000
+        volumes:
+            - ~/.affine/:/opt
+        image: ghcr.io/toeverything/affine-self-hosted:pre-alpha
+        networks:
+            wave-net:
+                aliases:
+                  - affine
+networks:
+  wave-net:
+    external: true

@@ -1,0 +1,16 @@
+name: memos-demo
+services:
+    memos:
+        container_name: memos
+        ports:
+            - 5230:5230
+        volumes:
+            - ~/.memos/:/var/opt/memos
+        image: neosmemo/memos:stable
+        networks:
+            wave-net:
+                aliases:
+                  - memos
+networks:
+  wave-net:
+    external: true

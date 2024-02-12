@@ -1,3 +1,11 @@
+#### Frontend
+- tldraw
+- create-t3-app
+- tRPC
+- nitro
+- [v0](https://v0.dev/)
+
+#### Project
 [Stash：一款老司机的瑞士军刀，搭建自己的专业姐姐库！](https://mp.weixin.qq.com/s/TZA08_sGd47MKys8ZStv7g)
 [全新免费编程神器！比 Copilot 快两倍，准确率高 20%，国产！！](https://mp.weixin.qq.com/s/5fcla6d5-chNY_ioBpm7UA)
 [Lobe Chat：一款开源、可扩展的高性能聊天机器人框架，支持一键免费部署私人 ChatGPT/LLM 网页应用程序](https://mp.weixin.qq.com/s/w9jyq-qznKAYy69r9pwikA)
@@ -40,6 +48,14 @@
 [compose2manifest](https://kompose.io/)
 [docusaurus](https://docusaurus.io/)
 [devv](https://devv.ai/)
+[Figma2Code](https://github.com/bernaferrari/FigmaToCode)
+[memos](https://github.com/usememos/memos)
+[affine](https://github.com/toeverything/AFFiNE)
+[思源笔记](https://github.com/siyuan-note/siyuan)
+[Reactive-Resume](https://mp.weixin.qq.com/s/IjtntZr5zwzIcVc3VZGpKQ)
+
+
+
 鸟窝的推荐工具：https://mp.weixin.qq.com/s/-8IcAjN6T6LeE29p0nkqcQ
 composerize: https://www.composerize.com/
 kompose: https://github.com/kubernetes/kompose

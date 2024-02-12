@@ -1,0 +1,9 @@
+services:
+    bytebase:
+        init: true
+        container_name: bytebase
+        ports:
+            - 8080:8080
+        volumes:
+            - ~/.bytebase/data:/var/opt/bytebase
+        image: bytebase/bytebase:2.13.2
